@@ -1,4 +1,4 @@
-# Actually Material Files, come soon for modifications & replacing Material theme by Yaru theme like on Ubuntu
+# Actually Material Files, come soon for modifications & replacing Material theme by Yaru theme like on Ubuntu (btw the design is up to canonical who created ubuntu)
 # actually all copyryght (c) goes to Hai Zhang
 
 [![Android CI status](https://github.com/Brick-linux-designer/YaruFiles/workflows/Android%20CI/badge.svg)](https://github.com/Brick-linux-designer/YaruFiles/actions) [![GitHub release](https://img.shields.io/github/v/release/zhanghai/MaterialFiles)](https://github.com/zhanghai/MaterialFiles/releases) [![License](https://img.shields.io/github/license/zhanghai/MaterialFiles?color=red)](GPL_v3)
